@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">EasyLog</string>
+
+    <string name="default_web_client_id" translatable="false">524191534058-rm68ve0d9ro6ip2qcuku2vq2jrj7eif1.apps.googleusercontent.com</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="connection">Login</string>
+    <string name="success">Success</string>
+    <string name="account_created">Your account has been successfully created.</string>
+    <string name="sale">Sales</string>
+    <string name="history">Historical</string>
+    <string name="calendar">Calender</string>
+    <string name="graphic">Chart</string>
+    <string name="user_management">User Management</string>
+    <string name="new_product">Add products</string>
+    <string name="sign_up">Register</string>
+    <string name="sign_in_with_google">Sign up with Google</string>
+    <string name="error_empty_fields">Please fill in all fields.</string>
+    <string name="error_invalid_credentials">Incorrect credentials, please try again.</string>
+    <string name="error_registration_failed">Registration failed, please try again.</string>
+    <string name="error_login_failed">Connection failed, please try again.</string>
+    <string name="error_account_not_found">Account does not exist, please verify your information.</string>
+    <string name="error_internet_connection">Internet connection problem, please try again.</string>
+    <string name="error_invalid_email">Please enter a valid email address.</string>
+    <string name="error_short_password">Password must contain at least 6 characters.</string>
+    <string name="success_registration">Registration successful</string>
+    <string name="success_login">Connection successful</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="dessert" translatable="false">Dessert</string>
+    <string name="beverage">Beverage</string>
+    <string name="sandwich" translatable="false">Sandwich</string>
+    <string name="salad">Salad</string>
+    <string name="logout">Logout</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="name">Name</string>
+    <string name="name_is_required">Name is required</string>
+    <string name="category">Category</string>
+    <string name="category_is_required">Category is required</string>
+    <string name="price">Price</string>
+    <string name="price_is_required">Price is required</string>
+    <string name="description" translatable="false">Description</string>
+    <string name="stock" translatable="false">Stock</string>
+    <string name="stock_is_required">Stock is required</string>
+    <string name="add_product">Add Product</string>
+    <string name="connected_as">Connected as : %1$s</string>
+    <string name="role">Role: %1$s</string>
+    <string name="member">member</string>
+    <string name="manager">manager</string>
+    <string name="confirm">Confirm</string>
+    <string name="toast_sucess">User role updated successfully</string>
+    <string name="error_updating_user_role">Error updating user role: %1$s</string>
+    <string name="role2">Role</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure_delete_user">Are you sure you want to delete the user ?</string>
+    <string name="user_deleted">The user has been deleted.</string>
+    <string name="error_deleting_user">The user was not deleted, there was an error.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="to_sale">To sale</string>
+    <string name="validate_sale">Confirm the sale?</string>
+    <string name="validate_sale_to">Sale validated to</string>
+    <string name="lack_stock">Insufficient stock for</string>
+    <string name="current_stock">Current stock</string>
+    <string name="add_new_quantity">add new quantity</string>
+    <string name="quantity">Quantity</string>
+    <string name="add">Add</string>
+    <string name="delete_product">Delete the product?</string>
+    <string name="want_to_delete">Do you really want to delete?</string>
+    <string name="choose_role">Choose your role</string>
+    <string name="select_date">Select a date</string>
+    <string name="selected_date">Selected date: %1$d/%2$d/%3$d</string>
+    <string name="category_label">Category: %1$s</string>
+    <string name="sales_of_the_day">Sales of the day</string>
+    <string name="total_orders">Total orders: %1$d</string>
+    <string name="total_sales">Total sales: %1$.2f €</string>
+    <string name="sales_of_the_month">Sales of the month %1$d/%2$d</string>
+    <string name="total_monthly_orders">Total orders of the month: %1$d</string>
+    <string name="total_monthly_sales">Total sales: %1$.2f €</string>
+</resources>
